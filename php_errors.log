@@ -1,0 +1,6 @@
+[29-Aug-2014 13:28:16 Europe/Minsk] PHP Strict Standards:  Non-static method CActiveRecord::with() should not be called statically, assuming $this from incompatible context in /usr/local/www/apache22/data/kitchen/php/protected/views/layouts/main.php on line 46
+[29-Aug-2014 17:31:07 Europe/Minsk] PHP Parse error:  syntax error, unexpected T_VARIABLE in /usr/local/www/apache22/data/kitchen/php/protected/controllers/SiteController.php on line 10
+[29-Aug-2014 17:34:12 Europe/Minsk] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /usr/local/www/apache22/data/kitchen/php/protected/controllers/CatalogueController.php on line 13
+[01-Sep-2014 15:27:42 Europe/Minsk] PHP Fatal error:  Call to undefined method CHtml::closeTab() in /usr/local/www/apache22/data/kitchen/php/protected/views/catalogue/products.php on line 16
+[01-Sep-2014 15:27:51 Europe/Minsk] PHP Fatal error:  Call to undefined method CHtml::closeTab() in /usr/local/www/apache22/data/kitchen/php/protected/views/catalogue/products.php on line 16
+[01-Sep-2014 15:27:52 Europe/Minsk] PHP Fatal error:  Call to undefined method CHtml::closeTab() in /usr/local/www/apache22/data/kitchen/php/protected/views/catalogue/products.php on line 16

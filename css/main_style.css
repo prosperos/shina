@@ -1,0 +1,152 @@
+.home{
+    background: url('../images/top_bg.png') 0 50px no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+.main{
+    padding-top: 40px;
+
+}
+.search{
+    padding-top: 22px;
+}
+.money{
+    padding-top: 26px;
+    padding-left: 35px;
+}
+.select-type li{
+    display: inline-block;
+}
+.left_shiny{
+
+    background: white;
+}
+.search-box > h2{
+    text-align: center;
+}
+.select-type {
+    text-align: justify;
+    padding-top: 20px;
+    height: 50px;
+
+}
+
+.select-type li .active {
+    color: white;
+    border: 2px solid transparent;
+    background: #63bdbb;
+    padding: 3px 10px;
+    border-radius: 10px;
+    transition: all linear .3s;
+}
+.select-type li a {
+    border: 2px solid transparent;
+    background: transparent;
+    color: #63bdbb;
+    padding: 3px 2px;
+    border-bottom: 1px dashed #63bdbb;
+    font-style: normal;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all linear .3s;
+}
+.select-img .to-center{
+    margin-top: 13px;
+}
+.other-option > div {
+    margin-top: 20px;
+}
+.slider-calc .col-md-12{
+    margin-top: 20px;
+}
+.slider-calc .count-fill {
+    width: 18%;
+}
+a.seasonIcon {
+    display: block;
+    float: left;
+    width: 40px;
+    height: 40px;
+    outline: 0;
+    margin-right: 10px;
+}
+#summerA {
+    background: url(../images/summer.png) no-repeat center center;
+    margin-left: 0;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+#winterA {
+    background: url(../images/winter.png) no-repeat center center;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+#allSeasonA {
+    background: url(../images/all_season.png) no-repeat center center;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+#summerA:hover, #summerA.active {
+    background: url(../images/summer_active.png) no-repeat center center;
+    margin-left: 0;
+    border: 2px solid #dedede;
+    border-radius: 5px;
+}
+#winterA:hover, #winterA.active {
+    background: url(../images/winter_active.png) no-repeat center center;
+    border: 2px solid #dedede;
+    border-radius: 5px;
+}
+#allSeasonA:hover, #allSeasonA.active {
+    background: url(../images/all_season_active.png) no-repeat center center;
+    border: 2px solid #dedede;
+    border-radius: 5px;
+}
+.slider-horizontal{
+    margin-left: 5%;
+    margin-top: 5px;
+    width: 55%;
+}
+
+.send-calc {
+    text-align: center;
+    margin-top: 20px;
+}
+span.count.new {
+    font-size: 14px;
+    position: relative;
+    top: -30px;
+    left: 5px !important;
+    background-color: #63BDBB;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    padding: 5px;
+    padding-left: -10px;
+    border-radius: 12px;
+    color: white;
+}
+
+
+
+.content{
+    margin-top: 50px;
+}
+.red{
+    color: #ff0000;
+}
+.form-control-feedback{
+    right: 10px;
+}
+input.error {
+    border: 1px solid #ff0000;
+}
+label.error {
+    color: #ff0000;
+    font-weight: normal;
+}
+.city-select{
+    display: none;
+}
+#slider-range{
+    margin-top: 15px;
+}

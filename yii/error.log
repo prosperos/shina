@@ -1,0 +1,32 @@
+[Thu Feb 07 00:49:10 2013] [error] [client 127.0.0.1] Directory index forbidden by Options directive: E:/Web/Yii/
+[Thu Feb 07 00:49:16 2013] [error] [client 127.0.0.1] Directory index forbidden by Options directive: E:/Web/Yii/
+[Thu Feb 07 00:49:16 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:49:37 2013] [error] [client 127.0.0.1] client denied by server configuration: E:/Web/Yii/framework/
+[Thu Feb 07 00:49:37 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:50:41 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:50:48 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:50:51 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:51:12 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:51:17 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:51:18 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:51:19 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:51:25 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:51:29 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:51:34 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:51:40 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:51:45 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Feb 07 00:51:46 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Tue Mar 05 20:15:28 2013] [error] [client 127.0.0.1] Directory index forbidden by Options directive: E:/Web/Yii/
+[Tue Mar 05 20:15:28 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Mar 14 21:11:25 2013] [error] [client 127.0.0.1] Directory index forbidden by Options directive: E:/Web/Yii/
+[Thu Mar 14 21:11:27 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Mar 14 21:11:32 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/base
+[Thu Mar 14 21:11:32 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Mar 14 21:11:36 2013] [error] [client 127.0.0.1] Directory index forbidden by Options directive: E:/Web/Yii/
+[Thu Mar 14 21:11:36 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Mar 14 21:15:58 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/gii
+[Thu Mar 14 21:15:58 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Mar 14 21:16:48 2013] [error] [client 127.0.0.1] client denied by server configuration: E:/Web/Yii/framework
+[Thu Mar 14 21:16:49 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
+[Thu Mar 14 21:16:52 2013] [error] [client 127.0.0.1] client denied by server configuration: E:/Web/Yii/framework/
+[Thu Mar 14 21:16:52 2013] [error] [client 127.0.0.1] File does not exist: E:/Web/Yii/favicon.ico
