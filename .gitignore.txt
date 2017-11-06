@@ -1,0 +1,4 @@
+# Ignore everything
+
+.idea
+kirill_yii_new
